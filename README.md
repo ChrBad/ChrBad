@@ -11,7 +11,7 @@ I'm grateful for the fundamentals I learned in technical college—developing in
 - **Full-stack**: PHP/Laravel, PostgreSQL, JavaScript — building everything from database design to UI
 - **Design-first**: ER diagrams, user stories, upfront planning (not exhaustive, but intentional) — creating a sustainable base for the overall software objectives
 - **Methodical**: Diagrams, documentation, proper architecture — because good design never goes out of style
-- **Pragmatic**: Work in short iterations where possible—getting prototypes out as fast as possible
+- **Pragmatic**: Work in short iterations where possible — getting prototypes out as fast as possible
 - **AI-assisted**: Leverage different models as virtual buddy — speeding up concept phase, mock-ups, coding and documentation tasks
 
 ### 💡 What Drives Me

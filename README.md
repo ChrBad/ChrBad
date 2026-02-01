@@ -18,7 +18,7 @@ I'm grateful for the fundamentals I learned in technical college — developing 
 
 The transition from "ugh, that's awfully annoying" to "hey, that's actually pretty cool!" The architecture decisions. Watching something go from concept to working software. I love the entire cycle: understanding the problem, designing the system, building the database, writing the code, shipping the product.
 
-My current project is **[Horrea Concept](https://horrea.io)**—professional warehouse technology assessment software. It combines everything I'm passionate about: systematic problem-solving, clean design, and building tools that help people make better decisions on projects that actually matter.
+My current project is **[Horrea Concept](https://horrea.io)** — professional warehouse technology assessment software. It combines everything I'm passionate about: systematic problem-solving, clean design, and building tools that help people make better decisions on projects that actually matter.
 
 ### ❓ One thing I'd emphasize
 

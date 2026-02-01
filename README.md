@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Chris
 
-I've been building software for twenty years because I love creating tools to support people in their tasks or simplify those tasks. What I enjoy most is not just the coding part—it's the whole journey from "what do people actually need?" through design, architecture, and into working software that makes their lives easier.
+I've been building software for twenty years because I love creating tools to support people in their tasks or simplify those tasks. What I enjoy most is not just the coding part — it's the whole journey from "what do people actually need?" through design, architecture, and into working software that makes their lives easier.
 
-I'm grateful for the fundamentals I learned in technical college—developing in everything from Turbo Pascal to C/C++ and Java. But I settled on web technologies because that's where the best user experience happens.
+I'm grateful for the fundamentals I learned in technical college — developing in everything from Turbo Pascal to C/C++ and Java. But I settled on web technologies because that's where the best user experience happens.
 
 *My motto: When you have do something, why not make it at least a bit fun?*
 
@@ -22,7 +22,7 @@ My current project is **[Horrea Concept](https://horrea.io)**—professional war
 
 ### ❓ One thing I'd emphasize
 
-**Database design matters.** If you work in environments where databases are involved, it's crucial to understand that how you store your data significantly impacts how you work with it down the line. Database design is important—not something that should just happen by accident.
+**Database design matters.** If you work in environments where databases are involved, it's crucial to understand that how you store your data significantly impacts how you work with it down the line. Database design is important — not something that should just happen by accident.
 
 ### 📫 Let's Connect
 
